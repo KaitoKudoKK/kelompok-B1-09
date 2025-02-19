@@ -1,4 +1,4 @@
-# GreenSortAI  
+# kelompok-B1-09  
 GreenSortAI adalah aplikasi berbasis AI dan cloud yang membantu pengguna memilah
 sampah dengan benar, memberikan rekomendasi daur ulang, serta menghubungkan
 pengguna dengan bank sampah dan komunitas peduli lingkungan.  
